@@ -136,7 +136,7 @@ Here are five German traffic signs that I found on the web:
 
 ![alt text][image3]
 
-The 5s and 3rd image should be quite easy to classify, the 1st image is pretty obvious and for the the 3rd, even if it has a little bit of tilting, because of the nature of the sign it should be pretty invariant to rotation.
+The 1st and 3rd image should be quite easy to classify, the 1st image is pretty obvious and for the the 3rd, even if it has a little bit of tilting, because of the nature of the sign it should be pretty invariant to rotation.
 
 Image 2 is cut, so the classifier might have trubble finding it if it's looking for perfect round shapes + the white background can be confusing (also, after doing the tests I noticed that the arrow seems to be shaped differently to the one in the trainign dataset)
 
